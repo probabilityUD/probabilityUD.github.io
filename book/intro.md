@@ -1,6 +1,4 @@
 (intro)=
-# Welcome to the Template Book
-
-_This is the first page the student will see when opening the url._
-
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+Welcome to the Introduction to Probability Class!!
+This book will cover basic probability concepts to higher level concepts with application to actuarial science and other natural sciences. In order to use the samples in this book and the accompanying materials, you will need to have your environment set up correctly.
+In this introduction, we are going to introduce the organization of this textbook and help you setup your development environment.
