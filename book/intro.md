@@ -4,7 +4,7 @@ Welcome to the **Introduction to Probability** class! This repository contains a
 
 ## Table of Contents
 
-** [<a Chapter 1: Basics of Probability></a>](#chapter-1-basics-of-probability)  
+** [ Chapter 1: Basics of Probability](#chapter-1-basics-of-probability)** 
    * [1.1 Sample Space and Events](#sample-space-and-events)  
    * [1.2 Basic Probability Rules](#basic-probability-rules)  
 2. [Chapter 2: Conditional Probability](#chapter-2-conditional-probability)  
@@ -14,4 +14,3 @@ Welcome to the **Introduction to Probability** class! This repository contains a
 6. [Chapter 6: Common Probability Distributions](#chapter-6-common-probability-distributions)  
 7. [Chapter 7: Law of Large Numbers](#chapter-7-law-of-large-numbers)  
 8. [Chapter 8: Central Limit Theorem](#chapter-8-central-limit-theorem)
-
