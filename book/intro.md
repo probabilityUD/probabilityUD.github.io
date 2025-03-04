@@ -4,9 +4,9 @@ Welcome to the **Introduction to Probability** class! This repository contains a
 
 ## Table of Contents
 
-** [ Chapter 1: Basics of Probability](#chapter-1-basics-of-probability)** 
-   * [1.1 Sample Space and Events](#sample-space-and-events)  
-   * [1.2 Basic Probability Rules](#basic-probability-rules)  
+[ Chapter 1: Basics of Probability](#chapter-1-basics-of-probability)
+    [1.1 Sample Space and Events](#sample-space-and-events)  
+    [1.2 Basic Probability Rules](#basic-probability-rules)  
 2. [Chapter 2: Conditional Probability](#chapter-2-conditional-probability)  
 3. [Chapter 3: Random Variables](#chapter-3-random-variables)  
 4. [Chapter 4: Probability Distributions](#chapter-4-probability-distributions)  
